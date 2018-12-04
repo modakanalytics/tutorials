@@ -1,0 +1,1001 @@
+id,name,symbol,mkt_value,sector
+1,Arch Capital Group Ltd.,ARH^C,n/a,n/a
+2,"Neurotrope, Inc.",NTRP,$59.88M,Health Care
+3,Tech Data Corporation,TECD,$3.67B,Technology
+4,"Virtu Financial, Inc.",VIRT,$2.38B,Finance
+5,IBERIABANK Corporation,IBKCO,n/a,Finance
+6,"CareTrust REIT, Inc.",CTRE,$1.4B,Consumer Services
+7,The Long-Term Care ETF,OLD,$2.7M,n/a
+8,Strattec Security Corporation,STRT,$121.47M,Capital Goods
+9,Independent Bank Corporation,IBCP,$452.26M,Finance
+10,"Titan International, Inc.",TWI,$698.59M,Basic Industries
+11,Legg Mason Emerging Markets Diversified Core ETF,EDBI,n/a,n/a
+12,Jack In The Box Inc.,JACK,$3.13B,Consumer Services
+13,"CBL & Associates Properties, Inc.",CBL^E,n/a,n/a
+14,Fluidigm Corporation,FLDM,$107.22M,Capital Goods
+15,"EQT Midstream Partners, LP",EQM,$5.64B,Public Utilities
+16,"Neuralstem, Inc.",CUR,$60.09M,Health Care
+17,Cohen & Steers Reit and Preferred Income Fund Inc,RNP,$998.43M,n/a
+18,VictoryShares Dividend Accelerator ETF,VSDA,n/a,n/a
+19,"SAExploration Holdings, Inc.",SAEX,$33.78M,Energy
+20,"Bottomline Technologies, Inc.",EPAY,$1B,Technology
+21,TIM Participacoes S.A.,TSU,$6.97B,Public Utilities
+22,"Insperity, Inc.",NSP,$1.6B,Technology
+23,National Energy Services Reunited Corp.,NESRW,n/a,Finance
+24,Primoris Services Corporation,PRIM,$1.27B,Basic Industries
+25,Forum Merger Corporation,FMCIW,n/a,Finance
+26,"Fortinet, Inc.",FTNT,$6.65B,Technology
+27,Aegon NV,AED,n/a,Finance
+28,AMC Networks Inc.,AMCX,$3.72B,Consumer Services
+29,"Meta Financial Group, Inc.",CASH,$836.36M,Finance
+30,PetroChina Company Limited,PTR,$116.38B,Energy
+31,OUTFRONT Media Inc.,OUT,$3.27B,Consumer Services
+32,"Taubman Centers, Inc.",TCO^J,n/a,n/a
+33,Annaly Capital Management Inc,NLY^E,n/a,n/a
+34,Eagle Materials Inc,EXP,$4.55B,Capital Goods
+35,UTStarcom Holdings Corp,UTSI,$84.95M,Consumer Durables
+36,Enel Chile S.A.,ENIC,$5.43B,Public Utilities
+37,Appian Corporation,APPN,$1.07B,Technology
+38,"Cellular Biomedicine Group, Inc.",CBMG,$102.18M,Health Care
+39,"HTG Molecular Diagnostics, Inc.",HTGM,$26.86M,Capital Goods
+40,Timken Company (The),TKR,$3.55B,Capital Goods
+41,Baltimore Gas & Electric Company,BGE^B,n/a,n/a
+42,Conatus Pharmaceuticals Inc.,CNAT,$146.32M,Health Care
+43,Archer-Daniels-Midland Company,ADM,$24.19B,Consumer Non-Durables
+44,ProPetro Holding Corp.,PUMP,$1.12B,Energy
+45,"Cardinal Health, Inc.",CAH,$23.69B,Health Care
+46,Sun Life Financial Inc.,SLF,$20.99B,Finance
+47,Capitala Finance Corp.,CPTA,$217.04M,n/a
+48,Petroleo Brasileiro S.A.- Petrobras,PBR,$52.7B,Energy
+49,ENDRA Life Sciences Inc.,NDRA,n/a,n/a
+50,Western Digital Corporation,WDC,$25.37B,Technology
+51,Essent Group Ltd.,ESNT,$3.4B,Finance
+52,Celgene Corporation,CELG,$95.54B,Health Care
+53,"Simon Property Group, Inc.",SPG,$50.03B,Consumer Services
+54,Core Laboratories N.V.,CLB,$4.72B,Energy
+55,"Dycom Industries, Inc.",DY,$2.77B,Basic Industries
+56,"Berkshire Hills Bancorp, Inc.",BHLB,$1.5B,Finance
+57,"China Natural Resources, Inc.",CHNR,$51.07M,Basic Industries
+58,"Northfield Bancorp, Inc.",NFBK,$838.27M,Finance
+59,First Trust Strategic Income ETF,FDIV,$101.86M,n/a
+60,"Gulf Resources, Inc.",GURE,$78.61M,Basic Industries
+61,Pacific Special Acquisition Corp.,PAACR,n/a,Finance
+62,IHS Markit Ltd.,INFO,$19.34B,Technology
+63,"Hawthorn Bancshares, Inc.",HWBK,$116.77M,Finance
+64,Mastercard Incorporated,MA,$135.24B,Miscellaneous
+65,Prudential Public Limited Company,PUK^A,n/a,n/a
+66,Cummins Inc.,CMI,$27.14B,Energy
+67,"Recon Technology, Ltd.",RCON,$10.99M,Energy
+68,"American Eagle Outfitters, Inc.",AEO,$2.05B,Consumer Services
+69,EPR Properties,EPR,$5.48B,Consumer Services
+70,"Blackrock MuniYield New York Quality Fund, Inc.",MYN,$520.17M,n/a
+71,Qwest Corporation,CTU,n/a,Public Utilities
+72,Southern Company (The),SOJA,n/a,Public Utilities
+73,FlexShares Real Assets Allocation Index Fund,ASET,$3.49M,n/a
+74,Dataram Corporation,DRAM,$23.54M,Technology
+75,Fortive Corporation,FTV,$22.2B,Capital Goods
+76,Matador Resources Company,MTDR,$2.17B,Energy
+77,AAR Corp.,AIR,$1.21B,Capital Goods
+78,China Online Education Group,COE,$315.27M,Consumer Services
+79,L.S. Starrett Company (The),SCX,$60M,Capital Goods
+80,Blackrock MuniYield Investment Fund,MYF,$217.64M,n/a
+81,Northern Technologies International Corporation,NTIC,$73.3M,Capital Goods
+82,"Tower International, Inc.",TOWR,$446.68M,Capital Goods
+83,Eagle Point Credit Company Inc.,ECCZ,n/a,n/a
+84,Global Indemnity Limited,GBLI,$727.71M,Finance
+85,Franklin Covey Company,FC,$279.93M,Consumer Services
+86,"Tenax Therapeutics, Inc.",TENX,$14.89M,Health Care
+87,St. Joe Company (The),JOE,$1.26B,Consumer Services
+88,Handy & Harman Ltd.,HNH,$350.14M,Capital Goods
+89,"Impax Laboratories, Inc.",IPXL,$1.02B,Health Care
+90,"Archrock, Inc.",AROC,$763.03M,Public Utilities
+91,"Concert Pharmaceuticals, Inc.",CNCE,$299.64M,Health Care
+92,Frontline Ltd.,FRO,$920.37M,Transportation
+93,"EMCOR Group, Inc.",EME,$3.87B,Capital Goods
+94,"Zillow Group, Inc.",ZG,$8.39B,Miscellaneous
+95,The Charles Schwab Corporation,SCHW^C,n/a,n/a
+96,"ChemoCentryx, Inc.",CCXI,$351.67M,Health Care
+97,"Zillow Group, Inc.",Z,$8.4B,Miscellaneous
+98,Texas Pacific Land Trust,TPL,$2.41B,Energy
+99,"ING Group, N.V.",ISG,n/a,Finance
+100,First Trust Taiwan AlphaDEX Fund,FTW,$3.5M,n/a
+101,Horizon Pharma plc,HZNP,$1.67B,Health Care
+102,ASA Gold and Precious Metals Limited,ASA,$222.22M,n/a
+103,Air Lease Corporation,AL,$3.92B,Technology
+104,Geron Corporation,GERN,$420.22M,Health Care
+105,Ternium S.A.,TX,$4.97B,Basic Industries
+106,Cinemark Holdings Inc,CNK,$4.82B,Consumer Services
+107,"Digital Realty Trust, Inc.",DLR,$18.91B,Consumer Services
+108,"UMH Properties, Inc.",UMH,$575.54M,Consumer Services
+109,"Teligent, Inc.",TLGT,$459.34M,Health Care
+110,First Trust Dynamic Europe Equity Income Fund,FDEU,$332.06M,n/a
+111,"Reinsurance Group of America, Incorporated",RGA,$8.29B,Finance
+112,Nanometrics Incorporated,NANO,$687.35M,Capital Goods
+113,Nuveen New York Municipal Value Fund 2,NYV,$35.5M,n/a
+114,Abercrombie & Fitch Company,ANF,$852.24M,Consumer Services
+115,"Meta Financial Group, Inc.",CASH,$836.36M,Finance
+116,Andina Acquisition Corp. II,ANDAR,n/a,Finance
+117,"Portola Pharmaceuticals, Inc.",PTLA,$2B,Health Care
+118,Vanguard Short-Term Corporate Bond ETF,VCSH,$19.14B,n/a
+119,Antero Midstream Partners LP,AM,$6.02B,Public Utilities
+120,"Codexis, Inc.",CDXS,$231.22M,Basic Industries
+121,Agnico Eagle Mines Limited,AEM,$10.83B,Basic Industries
+122,"Interface, Inc.",TILE,$1.22B,Consumer Durables
+123,"Web.com Group, Inc.",WEB,$1.19B,Technology
+124,Trinity Biotech plc,TRIB,$142.56M,Health Care
+125,"Maiden Holdings, Ltd.",MHLD,$982.38M,Finance
+126,PowerShares KBW Bank Portfolio,KBWB,$833.52M,n/a
+127,"DelMar Pharmaceuticals, Inc.",DMPI,$24.23M,Health Care
+128,Principal Price Setters Index ETF,PSET,$7.24M,n/a
+129,Acxiom Corporation,ACXM,$2.06B,Technology
+130,Broadcom Limited,AVGO,$96.06B,Technology
+131,"Royal Gold, Inc.",RGLD,$4.9B,Basic Industries
+132,Kayne Anderson Energy Development Company,KED,$184.66M,n/a
+133,"PHI, Inc.",PHIIK,$153.73M,Transportation
+134,Towne Bank,TOWN,$1.92B,n/a
+135,"AMC Entertainment Holdings, Inc.",AMC,$3.23B,Consumer Services
+136,"Quality Care Properties, Inc.",QCP,$1.65B,Consumer Services
+137,"National Oilwell Varco, Inc.",NOV,$12.79B,Energy
+138,BlueStar TA-BIGITech Israel Technology ETF,ITEQ,n/a,n/a
+139,Allergan plc.,AGN,$79.09B,Health Care
+140,Lennar Corporation,LEN.B,n/a,Basic Industries
+141,John Hancock Preferred Income Fund III,HPS,$605.33M,n/a
+142,Arlington Asset Investment Corp,AI,$352.64M,Finance
+143,"Seres Therapeutics, Inc.",MCRB,$423.7M,Health Care
+144,Immuron Limited,IMRNW,n/a,Health Care
+145,Univar Inc.,UNVR,$4.11B,Consumer Durables
+146,GoDaddy Inc.,GDDY,$7.15B,Technology
+147,Kaiser Aluminum Corporation,KALU,$1.47B,Capital Goods
+148,"Pacific Ethanol, Inc.",PEIX,$262.25M,Basic Industries
+149,Delaware Enhanced Global Dividend,DEX,$181.01M,n/a
+150,Ares Management L.P.,ARES,$3.79B,Finance
+151,Kaiser Aluminum Corporation,KALU,$1.47B,Capital Goods
+152,China Auto Logistics Inc.,CALI,$8.19M,Consumer Services
+153,Albemarle Corporation,ALB,$11.97B,Basic Industries
+154,"Hibbett Sports, Inc.",HIBB,$463.09M,Consumer Services
+155,Drive Shack Inc.,DS^C,n/a,n/a
+156,Approach Resources Inc.,AREX,$233.83M,Energy
+157,"NL Industries, Inc.",NL,$362.86M,Basic Industries
+158,Woori Bank,WF,$10.29B,Finance
+159,"MidWestOne Financial Group, Inc.",MOFG,$437.4M,Finance
+160,"Second Sight Medical Products, Inc.",EYES,$62M,n/a
+161,Kyocera Corporation,KYO,$21.43B,Technology
+162,Globus Maritime Limited,GLBS,$35.37M,Transportation
+163,Clipper Realty Inc.,CLPR,$229.43M,Consumer Services
+164,"Tyson Foods, Inc.",TSN,$22.07B,Consumer Non-Durables
+165,iStar Financial Inc.,STAR^D,n/a,n/a
+166,"International Seaways, Inc.",INSW,$580.97M,Consumer Services
+167,Teekay Offshore Partners L.P.,TOO,$293.41M,Consumer Services
+168,"Black Knight Financial Services, Inc.",BKFS,$6.01B,Technology
+169,Duluth Holdings Inc.,DLTH,$558.54M,Consumer Services
+170,Momo Inc.,MOMO,$7.27B,Technology
+171,Rex Energy Corporation,REXX,$3.23M,Energy
+172,FlexShares US Quality Large Cap Index Fund,QLC,$23.84M,n/a
+173,Goldcorp Inc.,GG,$11.22B,Basic Industries
+174,"Black Diamond, Inc.",BDE,$195.09M,Consumer Non-Durables
+175,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,CDC,$28.55M,n/a
+176,"Melrose Bancorp, Inc.",MELR,$46.84M,Finance
+177,"e.l.f. Beauty, Inc.",ELF,$1.21B,Consumer Non-Durables
+178,"Rocky Brands, Inc.",RCKY,$101.19M,Consumer Non-Durables
+179,Investors Real Estate Trust,IRET,$758.33M,Consumer Services
+180,Integra LifeSciences Holdings Corporation,IART,$3.99B,Capital Goods
+181,Student Transportation Inc,STB,$562.64M,Transportation
+182,Suncor Energy  Inc.,SU,$49.63B,Energy
+183,Bel Fuse Inc.,BELFA,$252.29M,Capital Goods
+184,Randgold Resources Limited,GOLD,$8.55B,Basic Industries
+185,DAVIDsTEA Inc.,DTEA,$166.11M,Consumer Non-Durables
+186,Technical Communications Corporation,TCCO,$7.36M,Technology
+187,"Cellectar Biosciences, Inc.",CLRBW,n/a,Health Care
+188,"Civitas Solutions, Inc.",CIVI,$636.19M,Health Care
+189,Allergan plc.,AGN,$79.09B,Health Care
+190,Chevron Corporation,CVX,$205.28B,Energy
+191,Janus Henderson SG Global Quality Income ETF,SGQI,n/a,n/a
+192,"Proto Labs, Inc.",PRLB,$1.72B,Capital Goods
+193,Semiconductor  Manufacturing International Corporation,SMI,$5.28B,Technology
+194,Capstead Mortgage Corporation,CMO,$1.06B,Consumer Services
+195,"Blackrock MuniYield California Fund, Inc.",MYC,$326.9M,n/a
+196,"Akebia Therapeutics, Inc.",AKBA,$548.36M,Health Care
+197,"Chunghwa Telecom Co., Ltd.",CHT,$27.64B,Public Utilities
+198,National General Holdings Corp,NGHCN,n/a,Finance
+199,VelocityShares Daily 2x VIX Short-Term ETN,TVIX,$198.29M,Finance
+200,Radcom Ltd.,RDCM,$229.93M,Technology
+201,"O&#39;Reilly Automotive, Inc.",ORLY,$21.06B,Consumer Services
+202,Virtusa Corporation,VRTU,$893.94M,Technology
+203,NIC Inc.,EGOV,$1.31B,Miscellaneous
+204,"Golden Entertainment, Inc.",GDEN,$462.74M,Consumer Services
+205,Blackrock New York Municipal Bond Trust,BQH,$40.22M,n/a
+206,Eaton Vance Corporation,EV,$5.58B,Finance
+207,"Bankwell Financial Group, Inc.",BWFG,$250.29M,Finance
+208,American Woodmark Corporation,AMWD,$1.55B,Basic Industries
+209,Prospect Capital Corporation,PSEC,$2.9B,n/a
+210,"Autoliv, Inc.",ALV,$9.71B,Capital Goods
+211,Tennessee Valley Authority,TVE,n/a,Public Utilities
+212,Celyad SA,CYAD,$445M,Health Care
+213,Iron Mountain Incorporated,IRM,$9.04B,Consumer Services
+214,"Boston Private Financial Holdings, Inc.",BPFHW,n/a,Finance
+215,Entercom Communications Corporation,ETM,$415.27M,Consumer Services
+216,Eastman Kodak Company,KODK,$394.9M,Miscellaneous
+217,J P Morgan Chase & Co,JPM^E,n/a,n/a
+218,Statoil ASA,STO,$55.69B,Energy
+219,UNIVERSAL INSURANCE HOLDINGS INC,UVE,$882.08M,Finance
+220,"Compania Cervecerias Unidas, S.A.",CCU,$4.88B,Consumer Non-Durables
+221,Rosehill Resources Inc.,ROSE,$323.56M,Energy
+222,Public Storage,PSA^Z,n/a,n/a
+223,Frontier Communications Corporation,FTR,$1.64B,Public Utilities
+224,"Selective Insurance Group, Inc.",SIGI,$2.98B,Finance
+225,"Sportsman&#39;s Warehouse Holdings, Inc.",SPWH,$240.71M,Consumer Services
+226,IBERIABANK Corporation,IBKCP,n/a,Finance
+227,Lions Gate Entertainment Corporation,LGF.B,n/a,n/a
+228,ReWalk Robotics Ltd,RWLK,$20.84M,Health Care
+229,Energous Corporation,WATT,$324.08M,Technology
+230,Oracle Corporation,ORCL,$185.53B,Technology
+231,Party City Holdco Inc.,PRTY,$1.83B,Consumer Services
+232,iPath US Treasury 10-year Bull ETN,DTYL,$5.27M,Finance
+233,Oxford Lane Capital Corp.,OXLCO,n/a,n/a
+234,Canadian Solar Inc.,CSIQ,$740.26M,Technology
+235,Louisiana-Pacific Corporation,LPX,$3.49B,Basic Industries
+236,"The Habit Restaurants, Inc.",HABT,$402.04M,Consumer Services
+237,Valvoline Inc.,VVV,$4.84B,Basic Industries
+238,Lancaster Colony Corporation,LANC,$3.43B,Consumer Non-Durables
+239,"RLJ Entertainment, Inc.",RLJE,$14.73M,Consumer Services
+240,Lincoln National Corporation,LNC,$15.26B,Finance
+241,"ServisFirst Bancshares, Inc.",SFBS,$1.96B,Finance
+242,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,GRID,$21.91M,n/a
+243,Kohl&#39;s Corporation,KSS,$6.37B,Consumer Services
+244,"Medical Properties Trust, Inc.",MPW,$4.8B,Consumer Services
+245,Cincinnati Bell Inc,CBB^B,n/a,n/a
+246,"Automatic Data Processing, Inc.",ADP,$46.3B,Technology
+247,"Motorola Solutions, Inc.",MSI,$13.85B,Technology
+248,"Pretium Resources, Inc.",PVG,$1.61B,Basic Industries
+249,"SkyWest, Inc.",SKYW,$1.9B,Transportation
+250,"Blackrock MuniAssets Fund, Inc.",MUA,$529.78M,n/a
+251,Sherwin-Williams Company (The),SHW,$32.65B,Consumer Services
+252,Highway Holdings Limited,HIHO,$12.9M,Capital Goods
+253,Farmland Partners Inc.,FPI,$295.28M,Consumer Services
+254,General Dynamics Corporation,GD,$61.14B,Capital Goods
+255,Open Text Corporation,OTEX,$8.28B,Technology
+256,U.S. Bancorp,USB^O,n/a,n/a
+257,"Alnylam Pharmaceuticals, Inc.",ALNY,$6.56B,Health Care
+258,"CST Brands, Inc.",CST,$3.68B,Consumer Durables
+259,Tuniu Corporation,TOUR,$1.04B,Consumer Services
+260,Belden Inc,BDC^B,n/a,n/a
+261,CONSOL Energy Inc.,CNX,$3.33B,Energy
+262,Anixter International Inc.,AXE,$2.61B,Consumer Non-Durables
+263,"Aspen Technology, Inc.",AZPN,$4.12B,Technology
+264,Lightbridge Corporation,LTBR,$15.36M,Consumer Services
+265,"MaxPoint Interactive, Inc.",MXPT,$48.3M,Consumer Services
+266,PowerShares DWA Industrials Momentum Portfolio,PRN,$121.11M,n/a
+267,Exelon Corporation,EXC,$34.34B,Public Utilities
+268,"PhotoMedex, Inc.",PHMD,$6.29M,Health Care
+269,"Ocular Therapeutix, Inc.",OCUL,$294.93M,Health Care
+270,TESSCO Technologies Incorporated,TESS,$110.38M,Consumer Non-Durables
+271,"Fresh Del Monte Produce, Inc.",FDP,$2.51B,Consumer Non-Durables
+272,Kentucky First Federal Bancorp,KFFB,$81.49M,Finance
+273,The Middleby Corporation,MIDD,$7.55B,Technology
+274,Lehman ABS Corporation,KTH,n/a,Finance
+275,Vanguard International High Dividend Yield ETF,VYMI,$371.88M,n/a
+276,Global Indemnity Limited,GBLI,$727.71M,Finance
+277,Clearwater Paper Corporation,CLW,$732.83M,Basic Industries
+278,Atrion Corporation,ATRI,$1.04B,Health Care
+279,"JELD-WEN Holding, Inc.",JELD,$3.6B,Basic Industries
+280,"Photronics, Inc.",PLAB,$685.28M,Technology
+281,American Water Works,AWK,$14.72B,Public Utilities
+282,World Fuel Services Corporation,INT,$2.49B,Energy
+283,"The Hackett Group, Inc.",HCKT,$452.03M,Consumer Services
+284,"Northfield Bancorp, Inc.",NFBK,$838.27M,Finance
+285,"Jones Energy, Inc.",JONE,$162.11M,Energy
+286,"ParkerVision, Inc.",PRKR,$41.59M,Technology
+287,Cousins Properties Incorporated,CUZ,$3.77B,Consumer Services
+288,Anavex Life Sciences Corp.,AVXL,$221.78M,Health Care
+289,PJT Partners Inc.,PJT,$718.32M,Finance
+290,"Oxford Industries, Inc.",OXM,$1.05B,Consumer Non-Durables
+291,Ecopetrol S.A.,EC,$18.77B,Energy
+292,U.S. Energy Corp.,USEG,$4.6M,Energy
+293,ACNB Corporation,ACNB,$176.55M,Finance
+294,"Dupont Fabros Technology, Inc.",DFT^C,n/a,n/a
+295,MB Financial Inc.,MBFIP,$104.92M,Finance
+296,Deltic Timber Corporation,DEL,$883.38M,Basic Industries
+297,Amarin Corporation plc,AMRN,$797.81M,Health Care
+298,Quidel Corporation,QDEL,$854.72M,Health Care
+299,Cooper-Standard Holdings Inc.,CPS,$1.86B,Capital Goods
+300,Wright Medical Group N.V.,WMGIZ,n/a,Health Care
+301,FactSet Research Systems Inc.,FDS,$6.71B,Technology
+302,Hess Corporation,HES,$13.87B,Energy
+303,Dow Chemical Company (The),DOW,$78.67B,Basic Industries
+304,Astrotech Corporation,ASTC,$21.18M,Capital Goods
+305,Clorox Company (The),CLX,$17.97B,Consumer Durables
+306,Kewaunee Scientific Corporation,KEQU,$61.97M,Capital Goods
+307,Diversicare Healthcare Services Inc.,DVCR,$62M,Health Care
+308,Nuveen High Income November 2021 Target Term Fund,JHB,$568.21M,n/a
+309,"Hartford Financial Services Group, Inc. (The)",HIG.WS,n/a,n/a
+310,"Telephone and Data Systems, Inc.",TDI,n/a,Public Utilities
+311,Federal Agricultural Mortgage Corporation,AGM^A,n/a,n/a
+312,First Community Corporation,FCCO,$146.67M,Finance
+313,Microchip Technology Incorporated,MCHP,$18.63B,Technology
+314,"American Software, Inc.",AMSWA,$326.53M,Technology
+315,B Communications Ltd.,BCOM,$636.64M,Consumer Services
+316,The AES Corporation,AES,$7.87B,Basic Industries
+317,"TTM Technologies, Inc.",TTMI,$1.84B,Technology
+318,iShares 20+ Year Treasury Bond ETF,TLT,$7.54B,n/a
+319,M III Acquisition Corp.,MIIIU,n/a,Finance
+320,Golar LNG Partners LP,GMLP,$1.38B,Consumer Services
+321,Rosehill Resources Inc.,ROSEU,n/a,Energy
+322,iShares Fallen Angels USD Bond ETF,FALN,$10.9M,n/a
+323,PowerShares S&P SmallCap Utilities Portfolio,PSCU,$45.09M,n/a
+324,"Kirkland&#39;s, Inc.",KIRK,$147.55M,Consumer Services
+325,CONSOL Energy Inc.,CNX,$3.33B,Energy
+326,"Church & Dwight Company, Inc.",CHD,$13.26B,Basic Industries
+327,"Lifeway Foods, Inc.",LWAY,$157.5M,Consumer Non-Durables
+328,RLI Corp.,RLI,$2.5B,Finance
+329,"GoPro, Inc.",GPRO,$1.12B,Miscellaneous
+330,Enel Generacion Chile S.A.,EOCC,$6.28B,Public Utilities
+331,Ligand Pharmaceuticals Incorporated,LGND,$2.41B,Health Care
+332,FIRST REPUBLIC BANK,FRC^E,n/a,n/a
+333,"Team, Inc.",TISI,$751.34M,Consumer Services
+334,Validea Market Legends ETF,VALX,$22.64M,n/a
+335,SteadyMed Ltd.,STDY,$174.94M,Health Care
+336,"Bankrate, Inc.",RATE,$1.01B,Technology
+337,First Financial Bancorp.,FFBCW,n/a,Finance
+338,VALE S.A.,VALE.P,n/a,n/a
+339,Xcel Energy Inc.,XEL,$24.27B,Public Utilities
+340,C&F Financial Corporation,CFFI,$167.21M,Finance
+341,"Citrix Systems, Inc.",CTXS,$12.08B,Technology
+342,"Sunshine Bancorp, Inc.",SBCP,$173.85M,Finance
+343,"FTI Consulting, Inc.",FCN,$1.34B,Consumer Services
+344,ENDRA Life Sciences Inc.,NDRA,n/a,n/a
+345,"SiteOne Landscape Supply, Inc.",SITE,$1.97B,Consumer Non-Durables
+346,China Distance Education Holdings Limited,DL,$311.18M,Consumer Services
+347,"Cullen/Frost Bankers, Inc.",CFR,$6.19B,Finance
+348,"DASAN Zhone Solutions, Inc.",DZSI,$19.42M,Public Utilities
+349,Bank of America Corporation,BAC^E,n/a,n/a
+350,"Wheeler Real Estate Investment Trust, Inc.",WHLR,$85.97M,Consumer Services
+351,VelocityShares 3x Long Gold ETN,UGLD,$97.38M,Finance
+352,BalckRock Taxable Municipal Bond Trust,BBN,$1.32B,n/a
+353,Ligand Pharmaceuticals Incorporated,LGND,$2.41B,Health Care
+354,National Energy Services Reunited Corp.,NESR,n/a,Finance
+355,Iamgold Corporation,IAG,$2.35B,Basic Industries
+356,"Huttig Building Products, Inc.",HBP,$177.28M,Consumer Services
+357,Kemper Corporation,KMPA,n/a,Finance
+358,"SunCoke Energy, Inc.",SXC,$614.25M,Basic Industries
+359,AXT Inc,AXTI,$248.85M,Technology
+360,"Aberdeen Japan Equity Fund, Inc. ",JEQ,$115.12M,n/a
+361,"ProPhase Labs, Inc.",PRPH,$32.94M,Health Care
+362,Herc Holdings Inc.,HRI,$1.06B,n/a
+363,"Entegris, Inc.",ENTG,$3.41B,Consumer Non-Durables
+364,"Rogers Communication, Inc.",RCI,$18.93B,Consumer Services
+365,"Wolverine World Wide, Inc.",WWW,$2.57B,Consumer Non-Durables
+366,MainStay DefinedTerm Municipal Opportunities Fund,MMD,$546.13M,n/a
+367,"Meritor, Inc.",MTOR,$1.41B,Capital Goods
+368,"Neothetics, Inc.",NEOT,$26.56M,Health Care
+369,"ShotSpotter, Inc.",SSTI,$125.21M,Technology
+370,KKR & Co. L.P.,KKR,$8.43B,Finance
+371,NutriSystem Inc,NTRI,$1.49B,Consumer Services
+372,Blackrock Municipal 2018 Term Trust,BPK,$238.94M,n/a
+373,First Trust Mid Cap Core AlphaDEX Fund,FNX,$699.62M,n/a
+374,BlackRock New Jersey Municipal Income Trust,BNJ,$117.7M,n/a
+375,Navistar International Corporation,NAV^D,n/a,Capital Goods
+376,1st Source Corporation,SRCE,$1.27B,Finance
+377,Signature Bank,SBNYW,n/a,Finance
+378,"Aclaris Therapeutics, Inc.",ACRS,$681.44M,Health Care
+379,PowerShares DWA Healthcare Momentum Portfolio,PTH,$61.7M,n/a
+380,CytRx Corporation,CYTR,$87.43M,Health Care
+381,Nationstar Mortgage Holdings Inc.,NSM,$1.76B,Finance
+382,"Aberdeen Singapore Fund, Inc.",SGF,$84.33M,n/a
+383,"Trupanion, Inc.",TRUP,$609.5M,Health Care
+384,ALPS/Dorsey Wright Sector Momentum ETF,SWIN,$6.79M,n/a
+385,Internet Gold Golden Lines Ltd.,IGLD,$213.58M,Public Utilities
+386,Tredegar Corporation,TG,$518.61M,Capital Goods
+387,Alliance Data Systems Corporation,ADS,$14.19B,Miscellaneous
+388,United Community Bancorp,UCBA,$79.88M,Finance
+389,Brookfield DTLA Inc.,DTLA^,n/a,n/a
+390,Therapix Biosciences Ltd.,TRPX,$21.62M,Health Care
+391,Sotherly Hotels LP,SOHOM,n/a,Consumer Services
+392,Repros Therapeutics Inc.,RPRX,$9.14M,Health Care
+393,"Inter Parfums, Inc.",IPAR,$1.12B,Consumer Non-Durables
+394,"TheStreet, Inc.",TST,$30.31M,Consumer Services
+395,ClearSign Combustion Corporation,CLIRW,n/a,Capital Goods
+396,Vistra Energy Corp.,VST,$7.14B,Public Utilities
+397,"Span-America Medical Systems, Inc.",SPAN,$82.91M,Health Care
+398,"Western Gas Partners, LP",WES,$8.39B,Public Utilities
+399,VelocityShares 3x Inverse Silver ETN,DSLV,$23.72M,Finance
+400,"America Movil, S.A.B. de C.V.",AMOV,$51.95B,Public Utilities
+401,Global X Guru Activist ETF,ACTX,n/a,n/a
+402,"AeroVironment, Inc.",AVAV,$727.12M,Capital Goods
+403,WSFS Financial Corporation,WSFSL,n/a,Finance
+404,"GAIN Capital Holdings, Inc.",GCAP,$280.36M,Finance
+405,"Reinsurance Group of America, Incorporated",RZA,n/a,Finance
+406,National Holdings Corporation,NHLD,$34.45M,Finance
+407,"Pinnacle Entertainment, Inc.",PNK,$1.16B,Consumer Services
+408,CalAmp Corp.,CAMP,$685.07M,Technology
+409,"Republic Bancorp, Inc.",RBCAA,$747.14M,Finance
+410,"MetLife, Inc.",MET^A,n/a,n/a
+411,California First National Bancorp,CFNB,$179.38M,Finance
+412,"Select Bancorp, Inc.",SLCT,$138.19M,Finance
+413,First Trust RBA Quality Income ETF,QINC,$28.13M,n/a
+414,Motif Bio plc,MTFB,$73.46M,Health Care
+415,Gentherm Inc,THRM,$1.39B,Capital Goods
+416,"Boise Cascade, L.L.C.",BCC,$1.14B,Consumer Services
+417,"Korea Equity Fund, Inc.",KEF,$93.02M,n/a
+418,American Woodmark Corporation,AMWD,$1.55B,Basic Industries
+419,Medigus Ltd.,MDGS,$4.76M,Health Care
+420,"Rennova Health, Inc.",RNVAZ,n/a,Health Care
+421,First Trust NASDAQ-100- Technology Index Fund,QTEC,$2.14B,n/a
+422,Natl Westminster Pfd,NW^C,n/a,Finance
+423,Performance Food Group Company,PFGC,$2.93B,Consumer Non-Durables
+424,"New York Mortgage Trust, Inc.",NYMT,$737.05M,Consumer Services
+425,"MainSource Financial Group, Inc.",MSFG,$861.23M,Finance
+426,"ONEOK Partners, L.P.",OKS,$14.31B,Public Utilities
+427,iPath US Treasury 2-year Bull ETN,DTUL,$5.01M,Finance
+428,"Amphastar Pharmaceuticals, Inc.",AMPH,$760.16M,Health Care
+429,CU Bancorp (CA),CUNB,$658.05M,Finance
+430,"Opexa Therapeutics, Inc.",OPXA,$4.58M,Health Care
+431,Nuvectra Corporation,NVTR,$132.49M,Health Care
+432,Silver Run Acquisition Corporation II,SRUNW,n/a,Finance
+433,"Rave Restaurant Group, Inc.",RAVE,$22.17M,Consumer Non-Durables
+434,Western Digital Corporation,WDC,$25.37B,Technology
+435,"Fidelity National Financial, Inc.",FNFV,$5.09B,Finance
+436,"Antares Pharma, Inc.",ATRS,$452.19M,Health Care
+437,"Spectra Energy Partners, LP",SEP,$13.13B,Public Utilities
+438,W.R. Berkley Corporation,WRB^D,n/a,n/a
+439,Southern Company (The),SO,$51.25B,Public Utilities
+440,"Dynex Capital, Inc.",DX^A,n/a,n/a
+441,icad inc.,ICAD,$68.61M,Health Care
+442,"StarTek, Inc.",SRT,$178.38M,Technology
+443,"Spartan Motors, Inc.",SPAR,$298.59M,Capital Goods
+444,Citigroup Inc.,C^J,n/a,n/a
+445,Molson Coors Brewing  Company,TAP.A,n/a,n/a
+446,Travelport Worldwide Limited,TVPT,$1.69B,Consumer Services
+447,GATX Corporation,GATX,$2.54B,Consumer Services
+448,"Boston Properties, Inc.",BXP,$19.4B,Consumer Services
+449,"AstroNova, Inc.",ALOT,$90.18M,Technology
+450,Landmark Infrastructure Partners LP,LMRKO,n/a,Consumer Services
+451,Enduro Royalty Trust,NDRO,$113.85M,Energy
+452,"Hub Group, Inc.",HUBG,$1.28B,Transportation
+453,Trustmark Corporation,TRMK,$2.24B,Finance
+454,Tennessee Valley Authority,TVE,n/a,Public Utilities
+455,Vanguard Intermediate-Term Corporate Bond ETF,VCIT,$14.59B,n/a
+456,"Brooks Automation, Inc.",BRKS,$1.73B,Technology
+457,"LM Funding America, Inc.",LMFA,$13.56M,Finance
+458,Federal Agricultural Mortgage Corporation,AGM,$719.35M,Finance
+459,"Sensus Healthcare, Inc.",SRTS,$52.75M,Health Care
+460,China Southern Airlines Company Limited,ZNH,$8.07B,Transportation
+461,Armstrong World Industries Inc,AWI,$2.35B,Consumer Non-Durables
+462,Federal Agricultural Mortgage Corporation,AGM,$719.35M,Finance
+463,LSI Industries Inc.,LYTS,$230.63M,Consumer Durables
+464,First Trust Strategic High Income Fund II,FHY,$112.34M,n/a
+465,Orange,ORAN,$43.94B,Public Utilities
+466,"SAExploration Holdings, Inc.",SAEX,$33.78M,Energy
+467,Opus Bank,OPB,$795.23M,n/a
+468,"CASI Pharmaceuticals, Inc.",CASI,$55.38M,Health Care
+469,Rayonier Advanced Materials Inc.,RYAM,$705.42M,Basic Industries
+470,"NN, Inc.",NNBR,$796.49M,Capital Goods
+471,SEACOR Marine Holdings Inc.,SMHI,n/a,Transportation
+472,RiceBran Technologies,RIBTW,n/a,Consumer Non-Durables
+473,Neff Corporation,NEFF,$563.71M,Technology
+474,VEON Ltd.,VEON,$6.59B,Public Utilities
+475,"Hebron Technology Co., Ltd.",HEBT,$48.64M,Capital Goods
+476,"Energizer Holdings, Inc.",EPC,$4.34B,Consumer Non-Durables
+477,Invesco Value Municipal Income Trust,IIM,$713.38M,n/a
+478,Royal Bank Scotland plc (The),RBS^L,n/a,n/a
+479,"Select Energy Services, Inc.",WTTR,$834.73M,Energy
+480,"Teradyne, Inc.",TER,$6.47B,Capital Goods
+481,"Level 3 Communications, Inc.",LVLT,$22.42B,Public Utilities
+482,"PNM Resources, Inc. (Holding Co.)",PNM,$3.17B,Public Utilities
+483,SeaSpine Holdings Corporation,SPNE,$116.58M,Health Care
+484,"Aratana Therapeutics, Inc.",PETX,$276.21M,Health Care
+485,RADA Electronic Industries Ltd.,RADA,$36.15M,Consumer Non-Durables
+486,Voya International High Dividend Equity Income Fund,IID,$61.57M,n/a
+487,"G-III Apparel Group, LTD.",GIII,$1.23B,Consumer Non-Durables
+488,Blackstone / GSO Strategic Credit Fund,BGB,$716.42M,n/a
+489,FutureFuel Corp.,FF,$644.87M,Basic Industries
+490,"Era Group, Inc.",ERA,$187.18M,Transportation
+491,Duke Realty Corporation,DRE,$10.25B,Consumer Services
+492,"Pulmatrix, Inc.",PULM,$45.78M,Health Care
+493,"Spectra Energy Partners, LP",SEP,$13.13B,Public Utilities
+494,"MainSource Financial Group, Inc.",MSFG,$861.23M,Finance
+495,"Chimerix, Inc.",CMRX,$234.19M,Health Care
+496,"Helix Energy Solutions Group, Inc.",HLX,$797.33M,Energy
+497,Aluminum Corporation of China Limited,ACH,$7.15B,Basic Industries
+498,"Prudential Short Duration High Yield Fund, Inc.",ISD,$509.16M,n/a
+499,First Trust United Kingdom AlphaDEX Fund,FKU,$27.49M,n/a
+500,Andina Acquisition Corp. II,ANDAW,n/a,Finance
+501,Triangle Capital Corporation,TCAP,$842.05M,n/a
+502,The Gabelli Healthcare & Wellness Trust,GRX^A,n/a,n/a
+503,"NextEra Energy, Inc.",NEE^C,n/a,n/a
+504,Fang Holdings Limited,SFUN,$1.54B,Technology
+505,"LivePerson, Inc.",LPSN,$663.34M,Technology
+506,Pacific Special Acquisition Corp.,PAACW,n/a,Finance
+507,Horizon Technology Finance Corporation,HRZN,$129.45M,n/a
+508,"FRP Holdings, Inc.",FRPH,$457.29M,Finance
+509,"AmTrust Financial Services, Inc.",AFSI^B,n/a,n/a
+510,Capital One Financial Corporation,COF^C,n/a,Finance
+511,BHP Billiton Limited,BHP,$92.34B,Basic Industries
+512,Tenneco Inc.,TEN,$2.95B,Capital Goods
+513,Johnson Outdoors Inc.,JOUT,$440.37M,Consumer Non-Durables
+514,MFC Bancorp Ltd.,MFCB,$101.56M,Finance
+515,Tesoro Logistics LP,TLLP,$5.26B,Energy
+516,Panhandle Royalty Company,PHX,$384.22M,Energy
+517,"Prudential Short Duration High Yield Fund, Inc.",ISD,$509.16M,n/a
+518,PennyMac Mortgage Investment Trust,PMT^A,n/a,n/a
+519,Fox Factory Holding Corp.,FOXF,$1.22B,Consumer Non-Durables
+520,First Majestic Silver Corp.,AG,$1.27B,Basic Industries
+521,Archer-Daniels-Midland Company,ADM,$24.19B,Consumer Non-Durables
+522,John Hancock Tax Advantaged Dividend Income Fund,HTD,$901.61M,n/a
+523,Select Income REIT,SIR,$2.21B,Consumer Services
+524,VOXX International Corporation,VOXX,$169.12M,Consumer Non-Durables
+525,National Storage Affiliates Trust,NSA,$990.02M,Consumer Services
+526,"European Equity Fund, Inc. (The)",EEA,$75.98M,n/a
+527,TOR Minerals International Inc,TORM          ,$26.92M,Basic Industries
+528,Koppers Holdings Inc.,KOP,$716.78M,Basic Industries
+529,"CVR Partners, LP",UAN,$437.27M,Basic Industries
+530,Diversicare Healthcare Services Inc.,DVCR,$62M,Health Care
+531,iShares MSCI All Country Asia ex Japan Index Fund,AAXJ,$3.53B,n/a
+532,PIMCO Income Strategy Fund II,PFN,$620.13M,n/a
+533,Cohen & Steers Inc,CNS,$1.9B,Finance
+534,"NV5 Global, Inc.",NVEE,$429.86M,Consumer Services
+535,CNH Industrial N.V.,CNHI,$15.85B,Capital Goods
+536,Sears Canada Inc. ,SRSC,$58.28M,Consumer Services
+537,"Commerce Bancshares, Inc.",CBSHP,$2.4B,Finance
+538,"aTyr Pharma, Inc.",LIFE,$84.51M,Health Care
+539,"The Ensign Group, Inc.",ENSG,$1.05B,Health Care
+540,"Revlon, Inc.",REV,$1.17B,Consumer Non-Durables
+541,Centene Corporation,CNC,$13.55B,Health Care
+542,"Nuveen New York Municipal Value Fund, Inc.",NNY,$156.44M,n/a
+543,First Trust Switzerland AlphaDEX Fund,FSZ,$192.43M,n/a
+544,Marine Products Corporation,MPX,$484.51M,Capital Goods
+545,Huntington Bancshares Incorporated,HBANN,n/a,Finance
+546,Comerica Incorporated,CMA.WS,n/a,n/a
+547,Shinhan Financial Group Co Ltd,SHG,$21.39B,Finance
+548,U.S. Energy Corp.,USEG,$4.6M,Energy
+549,"Saul Centers, Inc.",BFS,$1.28B,Consumer Services
+550,Graphic Packaging Holding Company,GPK,$4.08B,Consumer Durables
+551,Triple-S Management Corporation,GTS,$403.79M,Finance
+552,Gladstone Investment Corporation,GAINN,n/a,n/a
+553,ICICI Bank Limited,IBN,$28.43B,Finance
+554,Silicom Ltd,SILC,$347.78M,Technology
+555,"PayPal Holdings, Inc.",PYPL,$62.27B,Miscellaneous
+556,CoBiz Financial Inc.,COBZ,$691.58M,Finance
+557,Citizens Holding Company,CIZN,$122.36M,Finance
+558,The Obesity ETF,SLIM,$2.61M,n/a
+559,"Henry Schein, Inc.",HSIC,$14.5B,Health Care
+560,CTI BioPharma Corp.,CTIC,$93.98M,Health Care
+561,Tejon Ranch Co,TRC,$451.07M,Finance
+562,Valero Energy Partners LP,VLP,$2.93B,Energy
+563,Senior Housing Properties Trust,SNHNI,n/a,Consumer Services
+564,"VeriSign, Inc.",VRSN,$9.38B,Technology
+565,"Armada Hoffler Properties, Inc.",AHH,$643.63M,Finance
+566,BlackRock Income Investment Quality Trust,BAF,$132.03M,n/a
+567,"ABAXIS, Inc.",ABAX,$1.15B,Capital Goods
+568,Consolidated Edison Inc,ED,$25.91B,Public Utilities
+569,Nuveen Insured New York Select Tax-Free Income Portfolio,NXN,$54.36M,n/a
+570,Haemonetics Corporation,HAE,$2.15B,Health Care
+571,"Weyco Group, Inc.",WEYS,$291.31M,Consumer Non-Durables
+572,Duke Energy Corporation,DUKH,n/a,Public Utilities
+573,PIMCO Income Strategy Fund II,PFN,$620.13M,n/a
+574,"InterDigital, Inc.",IDCC,$2.76B,Miscellaneous
+575,TravelCenters of America LLC,TA,$142.26M,Consumer Durables
+576,"Cidara Therapeutics, Inc.",CDTX,$115.12M,Health Care
+577,"Global Brass and Copper Holdings, Inc.",BRSS,$675.15M,Capital Goods
+578,The Community Financial Corporation,TCFC,$181.04M,Finance
+579,Murphy Oil Corporation,MUR,$4.38B,Energy
+580,Chimera Investment Corporation,CIM^A,n/a,n/a
+581,"Oxford Industries, Inc.",OXM,$1.05B,Consumer Non-Durables
+582,Xenon Pharmaceuticals Inc.,XENE,$71.99M,Health Care
+583,"ASB Bancorp, Inc.",ASBB,$167.24M,Finance
+584,"Owens-Illinois, Inc.",OI,$3.72B,Consumer Durables
+585,"Momenta Pharmaceuticals, Inc.",MNTA,$1.24B,Health Care
+586,Quinpario Acquisition Corp. 2,QPACW,n/a,Miscellaneous
+587,"Comfort Systems USA, Inc.",FIX,$1.33B,Capital Goods
+588,Nuveen High Income December 2019 Target Term Fund,JHD,$277.1M,n/a
+589,"MKS Instruments, Inc.",MKSI,$3.96B,Capital Goods
+590,"Tyson Foods, Inc.",TSNU,n/a,Consumer Non-Durables
+591,Lloyds Banking Group Plc,LYG,$63.77B,Finance
+592,Cerner Corporation,CERN,$21.82B,Technology
+593,"Penumbra, Inc.",PEN,$2.84B,Health Care
+594,Charter Financial Corp.,CHFN,$270.26M,Finance
+595,"SGOCO Group, Ltd",SGOC,$12.16M,Technology
+596,Atlantic Coast Financial Corporation,ACFC,$119.14M,Finance
+597,Heico Corporation,HEI,$6.15B,Capital Goods
+598,"Merrill Lynch & Co., Inc.",MER^P,n/a,n/a
+599,World Acceptance Corporation,WRLD,$648.9M,Finance
+600,"HCP, Inc.",HCP,$15.23B,Consumer Services
+601,Criteo S.A.,CRTO,$3.04B,Technology
+602,"First Industrial Realty Trust, Inc.",FR,$3.47B,Consumer Services
+603,Stone Harbor Emerging Markets Total Income Fund,EDI,$155.93M,n/a
+604,"GAMCO Natural Resources, Gold & Income Tust ",GNT,$140.84M,n/a
+605,Starbucks Corporation,SBUX,$87.09B,Consumer Services
+606,"American Financial Group, Inc.",AFG,$8.98B,Finance
+607,Flaherty & Crumrine Preferred Income Fund Incorporated,PFD,$173.59M,n/a
+608,"Western Asset Municipal High Income Fund, Inc.",MHF,$160.52M,n/a
+609,"Urban One, Inc. ",UONEK,$103.88M,Consumer Services
+610,GP Investments Acquisition Corp.,GPIAW,n/a,Consumer Durables
+611,"Uranium Resources, Inc.",URRE,$34.59M,Basic Industries
+612,iShares MSCI All Country Asia ex Japan Index Fund,AAXJ,$3.53B,n/a
+613,Colliers International Group Inc. ,CIGI,$1.97B,Finance
+614,"BGC Partners, Inc.",BGCA,n/a,Finance
+615,Dynatronics Corporation,DYNT,$13.01M,Health Care
+616,Bank of America Corporation,BAC,$233.17B,Finance
+617,Pacific Special Acquisition Corp.,PAACU,n/a,Finance
+618,Workiva Inc.,WK,$788.23M,Technology
+619,"BofI Holding, Inc.",BOFIL,n/a,Finance
+620,Nuveen All Cap Energy MLP Opportunities Fund,JMLP,$113.19M,n/a
+621,"J. W. Mays, Inc.",MAYS,$70.35M,Consumer Services
+622,"Morgan Stanley Emerging Markets Debt Fund, Inc.",MSD,$213.38M,n/a
+623,FutureFuel Corp.,FF,$644.87M,Basic Industries
+624,"TrueCar, Inc.",TRUE,$1.75B,Technology
+625,"Photronics, Inc.",PLAB,$685.28M,Technology
+626,Stone Harbor Emerging Markets Income Fund,EDF,$261.58M,n/a
+627,ObsEva SA,OBSV,$161.49M,Health Care
+628,First South Bancorp Inc,FSBK,$156.39M,Finance
+629,Asbury Automotive Group Inc,ABG,$1.15B,Consumer Durables
+630,"PolarityTE, Inc.",COOL,$107.61M,Technology
+631,MSG Networks Inc.,MSG,$4.6B,Consumer Services
+632,"Baldwin & Lyons, Inc.",BWINA,$355.85M,Finance
+633,"Safe Bulkers, Inc",SB^D,n/a,n/a
+634,Horizon Technology Finance Corporation,HRZN,$129.45M,n/a
+635,Bank of America Corporation,BAC^W,n/a,Finance
+636,"Luby&#39;s, Inc.",LUB,$88.73M,Consumer Services
+637,Crawford & Company,CRD.A,n/a,n/a
+638,"Mettler-Toledo International, Inc.",MTD,$15.17B,Capital Goods
+639,New Residential Investment Corp.,NRZ,$5.14B,Consumer Services
+640,Potlatch Corporation,PCH,$1.92B,Consumer Services
+641,RXi Pharmaceuticals Corporation,RXII,$12.79M,Health Care
+642,Morgan Stanley,MS,$82.28B,Finance
+643,"SGOCO Group, Ltd",SGOC,$12.16M,Technology
+644,AllianzGI Equity & Convertible Income Fund,NIE,$543.65M,n/a
+645,"Eldorado Resorts, Inc.",ERI,$1.53B,Consumer Services
+646,"TrueBlue, Inc.",TBI,$1.11B,Technology
+647,"BWX Technologies, Inc.",BWXT,$4.72B,Energy
+648,The Priceline Group Inc. ,PCLN,$88.58B,Miscellaneous
+649,"CareTrust REIT, Inc.",CTRE,$1.4B,Consumer Services
+650,Nuveen Massachusetts Municipal Income Fund,NMT,$128.91M,n/a
+651,"Community Health Systems, Inc.",CYHHZ,n/a,Health Care
+652,PowerShares Optimum Yield Diversified Commodity Strategy No K-,PDBC,$411.91M,n/a
+653,Flaherty & Crumrine Preferred Income Opportunity Fund Inc,PFO,$154.23M,n/a
+654,Magic Software Enterprises Ltd.,MGIC,$349.22M,Technology
+655,China Petroleum & Chemical Corporation,SNP,$98.2B,Energy
+656,"Kingsway Financial Services, Inc.",KFS,$143.39M,Finance
+657,International Bancshares Corporation,IBOC,$2.36B,Finance
+658,Itau Unibanco Banco Holding SA,ITUB,$71.12B,Finance
+659,"Citrix Systems, Inc.",CTXS,$12.08B,Technology
+660,MUELLER WATER PRODUCTS,MWA,$1.83B,Capital Goods
+661,"NRG Yield, Inc.",NYLD.A,n/a,n/a
+662,"Williams-Sonoma, Inc.",WSM,$4.16B,Consumer Services
+663,Heico Corporation,HEI,$6.15B,Capital Goods
+664,Gabelli Dividend,GDV^D,n/a,n/a
+665,EMCORE Corporation,EMKR,$299.12M,Technology
+666,"CYS Investments, Inc.",CYS,$1.35B,Consumer Services
+667,Bellatrix Exploration Ltd,BXE,$152.93M,Energy
+668,General Dynamics Corporation,GD,$61.14B,Capital Goods
+669,Altisource Portfolio Solutions S.A.,ASPS,$403.3M,Consumer Services
+670,Public Storage,PSA,$37.14B,Consumer Services
+671,"Ingles Markets, Incorporated",IMKTA,$687.82M,Consumer Services
+672,CU Bancorp (CA),CUNB,$658.05M,Finance
+673,Blackrock MuniYield Pennsylvania Quality Fund,MPA,$192.01M,n/a
+674,Morgan Stanley,MS^F,n/a,n/a
+675,"CSG Systems International, Inc.",CSGS,$1.37B,Technology
+676,"Twenty-First Century Fox, Inc.",FOX,$50.2B,Consumer Services
+677,E.I. du Pont de Nemours and Company,DD,$71.5B,Basic Industries
+678,"Wolverine World Wide, Inc.",WWW,$2.57B,Consumer Non-Durables
+679,"Independent Bank Group, Inc",IBTX,$1.63B,Finance
+680,Oasmia Pharmaceutical AB,OASM,$38.24M,Health Care
+681,"Cancer Genetics, Inc.",CGIX,$72.13M,Health Care
+682,UMB Financial Corporation,UMBF,$3.68B,Finance
+683,"Engility Holdings, Inc.",EGL,$1.05B,Consumer Services
+684,Principal Real Estate Income Fund,PGZ,$126.34M,n/a
+685,"Entergy Arkansas, Inc.",EAE,n/a,Public Utilities
+686,Sunrun Inc.,RUN,$605.25M,Capital Goods
+687,Broadcom Limited,AVGO,$96.06B,Technology
+688,Rosehill Resources Inc.,ROSEW,n/a,Energy
+689,"First Hawaiian, Inc.",FHB,$4.27B,Finance
+690,Toyota Motor Corp Ltd Ord,TM,$156.02B,Capital Goods
+691,KKR & Co. L.P.,KKR,$8.43B,Finance
+692,GGP Inc.,GGP,$21.32B,Consumer Services
+693,"Everbridge, Inc.",EVBG,$674.56M,n/a
+694,"AG Mortgage Investment Trust, Inc.",MITT^B,n/a,n/a
+695,"Entergy Arkansas, Inc.",EAB,n/a,Public Utilities
+696,Drive Shack Inc.,DS^D,n/a,n/a
+697,Gerdau S.A.,GGB,$4.61B,Capital Goods
+698,Liberty Property Trust,LPT,$6.25B,Consumer Services
+699,"InnerWorkings, Inc.",INWK,$583.72M,Consumer Durables
+700,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,EXG,$2.78B,n/a
+701,"Edgewater Technology, Inc.",EDGW,$94.21M,Technology
+702,"Mitcham Industries, Inc.",MIND,$54.28M,Technology
+703,UroGen Pharma Ltd.,URGN,$186.89M,Health Care
+704,"SMART Global Holdings, Inc.",SGH,$316.82M,Technology
+705,Galapagos NV,GLPG,$4.01B,Health Care
+706,Ares Capital Corporation,ARCC,$6.95B,n/a
+707,"Nelnet, Inc.",NNI,$1.91B,Finance
+708,"Owens-Illinois, Inc.",OI,$3.72B,Consumer Durables
+709,China Unicom (Hong Kong) Ltd,CHU,$34.75B,Public Utilities
+710,"Empire Resorts, Inc.",NYNY,$757.6M,Consumer Services
+711,Viacom Inc.,VIAB,$12.19B,Consumer Services
+712,Asia Pacific Wire & Cable Corporation Limited,APWC,$39.39M,Basic Industries
+713,VOC Energy Trust,VOC,$79.22M,Energy
+714,"Biocept, Inc.",BIOC,$32.98M,Health Care
+715,"Manitowoc Company, Inc. (The)",MTW,$836.2M,Capital Goods
+716,"Willbros Group, Inc.",WG,$150.68M,Energy
+717,Lsb Industries Inc.,LXU,$295.41M,Basic Industries
+718,"ESSA Bancorp, Inc.",ESSA,$175.65M,Finance
+719,Data I/O Corporation,DAIO,$61.97M,Capital Goods
+720,Manulife Financial Corp,MFC,$36.08B,Finance
+721,Adobe Systems Incorporated,ADBE,$68.19B,Technology
+722,HealthSouth Corporation,HLS,$4.24B,Health Care
+723,ZTO Express (Cayman) Inc.,ZTO,$10.32B,Transportation
+724,Madison Strategic Sector Premium Fund,MSP,$69.05M,n/a
+725,BLDRS Emerging Markets 50 ADR Index Fund,ADRE,$136.12M,n/a
+726,Park-Ohio Holdings Corp.,PKOH,$480.35M,Capital Goods
+727,"AmTrust Financial Services, Inc.",AFSS,n/a,Finance
+728,"Dave & Buster&#39;s Entertainment, Inc.",PLAY,$2.84B,Consumer Services
+729,"Rush Enterprises, Inc.",RUSHB,$1.35B,Consumer Durables
+730,"Sinovac Biotech, Ltd.",SVA,$307.3M,Health Care
+731,"A-Mark Precious Metals, Inc.",AMRK,$112.5M,Basic Industries
+732,"Recon Technology, Ltd.",RCON,$10.99M,Energy
+733,"AMERISAFE, Inc.",AMSF,$1.11B,Finance
+734,"Trevena, Inc.",TRVN,$142.84M,Health Care
+735,Brainstorm Cell Therapeutics Inc.,BCLI,$82.81M,Health Care
+736,"Gildan Activewear, Inc.",GIL,$6.88B,Consumer Non-Durables
+737,"Sigma Labs, Inc.",SGLB,$11.29M,Consumer Durables
+738,Systemax Inc.,SYX,$685.51M,Consumer Services
+739,Nabriva Therapeutics AG,NBRV,$250.34M,Health Care
+740,"Ambarella, Inc.",AMBA,$1.64B,Technology
+741,Laboratory Corporation of America Holdings,LH,$14.4B,Health Care
+742,"Donegal Group, Inc.",DGICA,$436.92M,Finance
+743,"CenterState Banks, Inc.",CSFL,$1.39B,Finance
+744,"Diamond Offshore Drilling, Inc.",DO,$1.61B,Energy
+745,Cigna Corporation,CI,$43.29B,Health Care
+746,Manulife Financial Corp,MFC,$36.08B,Finance
+747,"ProPhase Labs, Inc.",PRPH,$32.94M,Health Care
+748,Vanguard Russell 2000 Value ETF,VTWV,$167.72M,n/a
+749,Seaspan Corporation,SSW^H,n/a,n/a
+750,"Cyclacel Pharmaceuticals, Inc.",CYCCP,$1.95M,Health Care
+751,"Top Image Systems, Ltd.",TISA,$22.92M,Technology
+752,Alere Inc.,ALR^B,n/a,n/a
+753,"Compass Minerals International, Inc.",CMP,$2.19B,Basic Industries
+754,Fifth Third Bancorp,FITBI,$535.68M,Finance
+755,"Kindred Biosciences, Inc.",KIN,$165.5M,Health Care
+756,"Magna International, Inc.",MGA,$16.53B,Capital Goods
+757,"SGOCO Group, Ltd",SGOC,$12.16M,Technology
+758,Philip Morris International Inc,PM,$189.23B,Consumer Non-Durables
+759,"GTx, Inc.",GTXI,$73.95M,Health Care
+760,"USA Technologies, Inc.",USATP,$10.91M,Miscellaneous
+761,"Esperion Therapeutics, Inc.",ESPR,$754.28M,Health Care
+762,Royal Bank Scotland plc (The),RBS^F,n/a,Finance
+763,MainStay DefinedTerm Municipal Opportunities Fund,MMD,$546.13M,n/a
+764,AVX Corporation,AVX,$2.71B,Capital Goods
+765,Semiconductor  Manufacturing International Corporation,SMI,$5.28B,Technology
+766,"Nu Skin Enterprises, Inc.",NUS,$3.09B,Health Care
+767,PowerShares S&P SmallCap Industrials Portfolio,PSCI,$96.27M,n/a
+768,Canadian Natural Resources Limited,CNQ,$34.43B,Energy
+769,"Tenax Therapeutics, Inc.",TENX,$14.89M,Health Care
+770,"Nautilus Group, Inc. (The)",NLS,$519.03M,Consumer Non-Durables
+771,"HV Bancorp, Inc.",HVBC,$31.4M,Finance
+772,PowerShares S&P SmallCap Utilities Portfolio,PSCU,$45.09M,n/a
+773,Synnex Corporation,SNX,$4.72B,Technology
+774,PolyOne Corporation,POL,$3.08B,Basic Industries
+775,Potlatch Corporation,PCH,$1.92B,Consumer Services
+776,"MOCON, Inc.",MOCO,$176.6M,Capital Goods
+777,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",HASI,$1.21B,Consumer Services
+778,Symantec Corporation,SYMC,$17.3B,Technology
+779,Ryerson Holding Corporation,RYI,$332.73M,Basic Industries
+780,"National CineMedia, Inc.",NCMI,$493.54M,Consumer Services
+781,Playa Hotels & Resorts N.V.,PLYA,$1.1B,Consumer Services
+782,Synalloy Corporation,SYNL,$96.77M,Basic Industries
+783,"Cartesian, Inc.",CRTN,$5.76M,Consumer Services
+784,Sealed Air Corporation,SEE,$8.82B,Basic Industries
+785,PartnerRe Ltd.,PRE^I,n/a,n/a
+786,"Washington Federal, Inc.",WAFD,$3.02B,Finance
+787,"Synacor, Inc.",SYNC,$129.26M,Technology
+788,"Assembly Biosciences, Inc.",ASMB,$377.45M,Health Care
+789,Dorian LPG Ltd.,LPG,$410.61M,Transportation
+790,Fifth Street Asset Management Inc.,FSAM,$172.02M,Finance
+791,Valvoline Inc.,VVV,$4.84B,Basic Industries
+792,Teledyne Technologies Incorporated,TDY,$4.62B,Capital Goods
+793,Preformed Line Products Company,PLPC,$241.57M,Basic Industries
+794,"ProPhase Labs, Inc.",PRPH,$32.94M,Health Care
+795,PIMCO Dynamic Income Fund,PDI,$1.43B,n/a
+796,Wells Fargo & Company,WFE^A,n/a,n/a
+797,Electrum Special Acquisition Corporation,ELECU,$260.75M,Finance
+798,Clorox Company (The),CLX,$17.97B,Consumer Durables
+799,"PrivateBancorp, Inc.",PVTBP,n/a,Finance
+800,"Identiv, Inc.",INVE,$59.21M,Technology
+801,CVB Financial Corporation,CVBF,$2.45B,Finance
+802,Equity Residential,EQR,$25.18B,Consumer Services
+803,General Finance Corporation,GFNCP,n/a,Technology
+804,CU Bancorp (CA),CUNB,$658.05M,Finance
+805,"FSB Bancorp, Inc.",FSBC,$28.74M,Finance
+806,"American Software, Inc.",AMSWA,$326.53M,Technology
+807,"Trex Company, Inc.",TREX,$1.99B,Basic Industries
+808,Potlatch Corporation,PCH,$1.92B,Consumer Services
+809,Ameren Corporation,AEE,$13.85B,Public Utilities
+810,Ritchie Bros. Auctioneers Incorporated,RBA,$3.17B,Miscellaneous
+811,Natural Resource Partners LP,NRP,$336.38M,Energy
+812,FirstEnergy Corporation,FE,$13.28B,Public Utilities
+813,"Autodesk, Inc.",ADSK,$23.11B,Technology
+814,"Overstock.com, Inc.",OSTK,$393.68M,Consumer Services
+815,"Expedia, Inc.",EXPE,$22.07B,Consumer Services
+816,"Paychex, Inc.",PAYX,$21.95B,Consumer Services
+817,"Pacific Biosciences of California, Inc.",PACB,$316.2M,Capital Goods
+818,"Innovative Solutions and Support, Inc.",ISSC,$67.47M,Technology
+819,"Laureate Education, Inc.",LAUR,$3.06B,Consumer Services
+820,SEI Investments Company,SEIC,$8.61B,Finance
+821,BB&T Corporation,BBT^H,n/a,n/a
+822,Hydrogenics Corporation,HYGS,$126.08M,Basic Industries
+823,Rand Capital Corporation,RAND,$17.83M,n/a
+824,Tech Data Corporation,TECD,$3.67B,Technology
+825,"Pixelworks, Inc.",PXLW,$138.36M,Technology
+826,"Acacia Communications, Inc.",ACIA,$1.74B,Technology
+827,"Great Western Bancorp, Inc.",GWB,$2.34B,Finance
+828,"Morgan Stanley Emerging Markets Fund, Inc.",MSF,$232.61M,n/a
+829,Crawford & Company,CRD.B,n/a,n/a
+830,CyrusOne Inc,CONE,$5.08B,Consumer Services
+831,Calamos Global Total Return Fund,CGO,$111.57M,n/a
+832,"Web.com Group, Inc.",WEB,$1.19B,Technology
+833,The Middleby Corporation,MIDD,$7.55B,Technology
+834,Korea Electric Power Corporation,KEP,$24.6B,Public Utilities
+835,"WESCO International, Inc.",WCC,$2.79B,Consumer Non-Durables
+836,Kearny Financial,KRNY,$1.27B,Finance
+837,"BGC Partners, Inc.",BGCP,$3.52B,Finance
+838,1st Source Corporation,SRCE,$1.27B,Finance
+839,Green Dot Corporation,GDOT,$1.97B,Finance
+840,GP Investments Acquisition Corp.,GPIA,$216.49M,Consumer Durables
+841,Wells Fargo & Company,WFC^R,n/a,n/a
+842,Blackrock New York Municipal Income Quality Trust,BSE,$87.89M,n/a
+843,"Goldman Sachs Group, Inc. (The)",GS^I,n/a,n/a
+844,United Community Financial Corp.,UCFC,$433.25M,Finance
+845,Sundance Energy Australia Limited,SNDE,$68.96M,Energy
+846,TELUS Corporation,TU,$20.42B,Public Utilities
+847,"WellCare Health Plans, Inc.",WCG,$7.77B,Health Care
+848,Bunge Limited,BG,$10.8B,Consumer Non-Durables
+849,"Bio-Rad Laboratories, Inc.",BIO,$6.53B,Capital Goods
+850,"Blackrock MuniHoldings New York Quality Fund, Inc.",MHN,$431.8M,n/a
+851,"EastGroup Properties, Inc.",EGP,$2.92B,Consumer Services
+852,Histogenics Corporation,HSGX,$35.47M,Health Care
+853,Capital Senior Living Corporation,CSU,$473.87M,Health Care
+854,United States Cellular Corporation,UZB,n/a,Public Utilities
+855,State Street Corporation,STT^E,n/a,n/a
+856,"Banc of California, Inc.",BANC^C,n/a,n/a
+857,"Host Hotels & Resorts, Inc.",HST,$13.86B,Consumer Services
+858,Exelon Corporation,EXC,$34.34B,Public Utilities
+859,JMP Group LLC,JMP,$112.52M,Finance
+860,Pennsylvania Real Estate Investment Trust,PEI^A,n/a,n/a
+861,Apache Corporation,APA,$18.85B,Energy
+862,Eaton Vance Floating Rate Income Trust,EFT,$605.93M,n/a
+863,"Schneider National, Inc.",SNDR,$3.74B,Transportation
+864,Cytori Therapeutics Inc,CYTX,$31.83M,Health Care
+865,"bluebird bio, Inc.",BLUE,$4.45B,Health Care
+866,"Watts Water Technologies, Inc.",WTS,$2.15B,Capital Goods
+867,First Trust SSI Strategic Convertible Securities ETF,FCVT,$38.77M,n/a
+868,Severn Bancorp Inc,SVBI,$86.11M,Finance
+869,Olin Corporation,OLN,$4.89B,Basic Industries
+870,Principal U.S. Small Cap Index ETF,PSC,$277.12M,n/a
+871,"Urban Outfitters, Inc.",URBN,$2.09B,Consumer Services
+872,Fifth Street Finance Corp.,FSCFL,n/a,n/a
+873,CarMax Inc,KMX,$11.24B,Consumer Durables
+874,"Forterra, Inc.",FRTA,$411.13M,Capital Goods
+875,"Franklin Electric Co., Inc.",FELE,$1.88B,Consumer Durables
+876,"EastGroup Properties, Inc.",EGP,$2.92B,Consumer Services
+877,PowerShares DWA SmallCap Momentum Portfolio,DWAS,$182.87M,n/a
+878,Stellus Capital Investment Corporation,SCQ,n/a,n/a
+879,"Caladrius Biosciences, Inc.",CLBS,$40.32M,Health Care
+880,Diversified Real Asset Income Fund,DRA,$311.58M,n/a
+881,AmeriServ Financial Inc.,ASRVP,n/a,Finance
+882,IDT Corporation,IDT,$372.55M,Public Utilities
+883,"Easterly Government Properties, Inc.",DEA,$779.29M,Consumer Services
+884,Bank of America Corporation,BML^G,n/a,n/a
+885,"AvalonBay Communities, Inc.",AVB,$27.02B,Consumer Services
+886,Signature Bank,SBNYW,n/a,Finance
+887,CardConnect Corp.,CCN,$472.08M,Finance
+888,"Zogenix, Inc.",ZGNX,$362.28M,Health Care
+889,Hilton Grand Vacations Inc.,HGV,$3.62B,Consumer Services
+890,IZEA Inc.,IZEA,$12.38M,Consumer Services
+891,"The Bon-Ton Stores, Inc.",BONT,$10.54M,Consumer Services
+892,Colonial Investment Grade Municipal Trust,CXH,$116.91M,n/a
+893,Taiwan Semiconductor Manufacturing Company Ltd.,TSM,$186.02B,Technology
+894,"StealthGas, Inc.",GASS,$122.37M,Transportation
+895,"Digital Realty Trust, Inc.",DLR^I,n/a,n/a
+896,"Computer Programs and Systems, Inc.",CPSI,$442.63M,Technology
+897,Ecolab Inc.,ECL,$38.95B,Basic Industries
+898,Global X SuperDividend Alternatives ETF,ALTY,n/a,n/a
+899,Sherwin-Williams Company (The),SHW,$32.65B,Consumer Services
+900,Pattern Energy Group Inc.,PEGI,$2.08B,Public Utilities
+901,"Otonomy, Inc.",OTIC,$441.75M,Health Care
+902,"Onvia, Inc.",ONVI,$30.65M,Miscellaneous
+903,SandRidge Mississippian Trust I,SDT,$39.48M,Energy
+904,REX American Resources Corporation,REX,$631.93M,Basic Industries
+905,Waters Corporation,WAT,$14.74B,Capital Goods
+906,E.I. du Pont de Nemours and Company,DD^B,n/a,Basic Industries
+907,"MACOM Technology Solutions Holdings, Inc.",MTSI,$3.57B,Technology
+908,News Corporation,NWSA,$7.99B,Consumer Services
+909,CalAmp Corp.,CAMP,$685.07M,Technology
+910,"Dorman Products, Inc.",DORM,$2.71B,Capital Goods
+911,Repros Therapeutics Inc.,RPRX,$9.14M,Health Care
+912,WisdomTree Negative Duration High Yield Bond Fund,HYND,$16.53M,n/a
+913,Citigroup Inc.,C^P,n/a,n/a
+914,Mattersight Corporation,MATR,$84.98M,Technology
+915,Redhill Biopharma Ltd.,RDHL,$146.7M,Health Care
+916,"CF Industries Holdings, Inc.",CF,$6.43B,Basic Industries
+917,Fifth Street Finance Corp.,FSC,$561.02M,n/a
+918,"MedEquities Realty Trust, Inc.",MRT,$389.56M,Consumer Services
+919,"Werner Enterprises, Inc.",WERN,$2.09B,Transportation
+920,UTStarcom Holdings Corp,UTSI,$84.95M,Consumer Durables
+921,Jack In The Box Inc.,JACK,$3.13B,Consumer Services
+922,Public Storage,PSA^B,n/a,Consumer Services
+923,OFG Bancorp,OFG,$443.87M,Finance
+924,FIRST REPUBLIC BANK,FRC,$15.85B,n/a
+925,"Morgan Stanley Emerging Markets Debt Fund, Inc.",MSD,$213.38M,n/a
+926,"Colony NorthStar, Inc.",CLNS^B,n/a,n/a
+927,"ING Group, N.V.",ISF,n/a,Finance
+928,"Parke Bancorp, Inc.",PKBK,$161.78M,Finance
+929,Oramed Pharmaceuticals Inc.,ORMP,$98.91M,Health Care
+930,"Sunshine Bancorp, Inc.",SBCP,$173.85M,Finance
+931,Viper Energy Partners LP,VNOM,$1.59B,Energy
+932,"Expedia, Inc.",EXPE,$22.07B,Consumer Services
+933,"Selecta Biosciences, Inc.",SELB,$330.28M,Health Care
+934,"ARC Group Worldwide, Inc.",ARCW,$61.78M,Capital Goods
+935,"Avon Products, Inc.",AVP,$1.54B,Consumer Non-Durables
+936,Invesco Trust  for Investment Grade New York Municipal,VTN,$268.02M,n/a
+937,Embotelladora Andina S.A.,AKO.A,n/a,n/a
+938,Ares Capital Corporation,ARU.CL,n/a,n/a
+939,Agenus Inc.,AGEN,$342.95M,Health Care
+940,"EnerNOC, Inc.",ENOC,$179.44M,Technology
+941,Eaton Vance Risk-Managed Diversified Equity Income Fund,ETJ,$601.02M,n/a
+942,S&W Seed Company,SANW,n/a,Consumer Non-Durables
+943,Infinera Corporation,INFN,$1.69B,Public Utilities
+944,Axovant Sciences Ltd.,AXON          ,$2.26B,Health Care
+945,"Redwood Trust, Inc.",RWT,$1.34B,Consumer Services
+946,"Lincoln Electric Holdings, Inc.",LECO,$6.35B,Technology
+947,Nuveen Floating Rate Income Opportuntiy Fund,JRO,$461.83M,n/a
+948,VictoryShares Dividend Accelerator ETF,VSDA,n/a,n/a
+949,"Hostess Brands, Inc.",TWNK,$2.09B,Consumer Non-Durables
+950,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",VLRS,$1.44B,Transportation
+951,"Care.com, Inc.",CRCM,$437.24M,Consumer Services
+952,"MaxPoint Interactive, Inc.",MXPT,$48.3M,Consumer Services
+953,First Internet Bancorp,INBKL,n/a,Finance
+954,Technical Communications Corporation,TCCO,$7.36M,Technology
+955,AmeriServ Financial Inc.,ASRV,$76.54M,Finance
+956,"Sonoma Pharmaceuticals, Inc.",SNOAW,n/a,Health Care
+957,"Celldex Therapeutics, Inc.",CLDX,$290.24M,Health Care
+958,PowerShares 1-30 Laddered Treasury Portfolio,PLW,$183.15M,n/a
+959,"M I Acquisitions, Inc.",MACQU,n/a,n/a
+960,"Clearside Biomedical, Inc.",CLSD,$197.85M,Health Care
+961,Global X Internet of Things ETF,SNSR,n/a,n/a
+962,Royal Bank Scotland plc (The),RBS,$37.92B,Finance
+963,PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,LDRI,$22.51M,n/a
+964,PowerShares Dividend Achievers Portfolio,PFM,$317.19M,n/a
+965,"VeriSign, Inc.",VRSN,$9.38B,Technology
+966,Xylem Inc.,XYL,$9.71B,Capital Goods
+967,Future FinTech Group Inc.,FTFT,$13.09M,Consumer Non-Durables
+968,"Templeton Emerging Markets Income Fund, Inc.",TEI,$547.18M,n/a
+969,"FormFactor, Inc.",FORM,$952M,Technology
+970,Phibro Animal Health Corporation,PAHC,$1.43B,Health Care
+971,Deutsch Bk Contingent Cap Tr V,DKT,n/a,Finance
+972,Sprague Resources LP,SRLP,$671.8M,Energy
+973,"Superior Energy Services, Inc.",SPN,$1.59B,Energy
+974,"Landstar System, Inc.",LSTR,$3.68B,Transportation
+975,"Oppenheimer Holdings, Inc.",OPY,$219.09M,Finance
+976,Halliburton Company,HAL,$38.42B,Energy
+977,Allstate Corporation (The),ALL^D,n/a,n/a
+978,Dextera Surgical Inc.,DXTR,$2.97M,Health Care
+979,"Spectrum Brands Holdings, Inc.",SPB           ,$7.8B,Miscellaneous
+980,"Tower International, Inc.",TOWR,$446.68M,Capital Goods
+981,Trillium Therapeutics Inc.,TRIL,$49M,Health Care
+982,Sotherly Hotels Inc.,SOHO,$91.07M,Consumer Services
+983,Ivy NextShares,IVFGC,n/a,n/a
+984,Embotelladora Andina S.A.,AKO.B,n/a,n/a
+985,"Match Group, Inc.",MTCH,$4.4B,Technology
+986,"Hibbett Sports, Inc.",HIBB,$463.09M,Consumer Services
+987,"Clearfield, Inc.",CLFD,$192.38M,Public Utilities
+988,Neogen Corporation,NEOG,$2.6B,Health Care
+989,Axis Capital Holdings Limited,AXS^D,n/a,n/a
+990,"Adamas Pharmaceuticals, Inc.",ADMS,$391.07M,Health Care
+991,John Hancock Tax-Advantaged Global Shareholder Yield Fund,HTY,$107.03M,n/a
+992,Ameris Bancorp,ABCB,$1.78B,Finance
+993,"Akoustis Technologies, Inc.",AKTS,$173.77M,Public Utilities
+994,"John B. Sanfilippo & Son, Inc.",JBSS,$696.39M,Consumer Non-Durables
+995,Kimbell Royalty Partners,KRP,$273.57M,Energy
+996,"EQT GP Holdings, LP",EQGP,$6.64B,Public Utilities
+997,TriplePoint Venture Growth BDC Corp.,TPVG,$214.42M,n/a
+998,Pengrowth Energy Corporation,PGH,$449.92M,Energy
+999,First Trust CEF Income Opportunity ETF,FCEF,$28.08M,n/a
+1000,"Lakeland Industries, Inc.",LAKE,$92.98M,Health Care
