@@ -6,6 +6,6 @@ Kosh -> https://github.com/modakanalytics/kosh/wiki
 
 BotWorks -> https://github.com/modakanalytics/botworks/wiki
 
-DataSpider -> https://github/modakanalytics/dataspider/wiki
+DataSpider -> https://github.com/modakanalytics/dataspider/wiki
 
 
