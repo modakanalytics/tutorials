@@ -1,0 +1,40 @@
+{
+  "bot_type": "JDBCBot",
+  "metadata": {
+    "topic": "bot-os-jdbcbot",
+    "process_context": "Fetching list of tables for the given source",
+    "tags": {
+      "process_id": 1544012382153,
+      "tags": [
+        "Jdbcbot"
+      ]
+    }
+  },
+  "tasks": [
+    {
+      "name": "Fetch list of tables for given source",
+      "processor": {
+        "classname": "com.modak.botworks.bots.processor.NullProcessor",
+        "props": {}
+      },
+      "app_template": {
+        "app_template_group": "/home/test_opensource/resources/templates/jdbc_bot.stg",
+        "app_template_name": "getListOfTablesforSource"
+      },
+      "data": {
+        "query_input": {
+          "source_name": "test",
+          "schema_name": "PUBLIC"
+        },
+        "query_type": "select"
+      },
+      "output_templates": [
+        {
+          "output_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+          "output_template_name": "ondemandjdbc_input_message"
+        }
+      ],
+      "error_templates": []
+    }
+  ]
+} 

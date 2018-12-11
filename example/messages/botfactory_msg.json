@@ -1,0 +1,56 @@
+{
+  "bot_type": "FactoryBot",
+  "metadata": {
+    "topic": "bot-os_bot_factory",
+    "msg_uuid": "85984541-4f8e-471a-9a90-1cc9a8fc4f75",
+    "tags": {
+      "tags": [
+        "create_bots"
+      ]
+    },
+    "process_context":" Spawning Bots "
+  },
+  "tasks": [
+    {
+      "name": "create_bots",
+      "processor": {
+        "classname": "com.modak.botworks.bots.processor.NullProcessor",
+        "props": {}
+      },
+      "app_template": {
+        "app_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+        "app_template_name": "doNothingTemplate"
+      },
+      "data": {
+        "process_id":1544012346572,
+        "bots_list": [
+          {
+            "bot_type": "LogBot",
+            "config": "/home/test_opensource/resources/configurations/log_bot_config.json",
+            "no_of_instances": 1
+          },
+          {
+            "bot_type": "JDBCBot",
+            "config": "/home/test_opensource/resources/configurations/jdbc_bot_config.json",
+            "no_of_instances": 1
+          },{
+            "bot_type": "CSVFileWriterBot",
+            "config": "/home/test_opensource/resources/configurations/csvfilewriter_bot_config.json",
+            "no_of_instances": 1
+          },
+          {
+            "bot_type": "OnDemandJDBCBot",
+            "config": "/home/test_opensource/resources/configurations/ondemandjdbc_bot_config.json",
+            "no_of_instances": 1
+          }
+        ]
+      },
+      "error_templates": [
+        {
+          "error_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+          "error_template_name": "doNothingTemplate"
+        }
+      ]
+    }
+  ]
+}

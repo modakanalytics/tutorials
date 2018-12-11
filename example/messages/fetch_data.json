@@ -1,0 +1,131 @@
+{
+  "bot_type": "OnDemandJDBCBot",
+  "metadata": {
+    "initial_ts": "1544012383100",
+    "end_ts": "1544012383188",
+    "parent_bot_name": "JDBCBot",
+    "parent_task_name": "Fetch list of tables for given source",
+    "topic": "bot-os_ondemandjdbc_bot",
+    "msg_uuid": "e158af6a-4ccf-4620-b07f-5965ec9561d5",
+    "parent_uuid": "",
+    "bot_uuid": "df53bd07-6106-4937-81c7-0bb1d7e68feb",
+    "tags": {
+      "process_id": 1544012382153,
+      "tags": [
+        "Jdbcbot",
+        "ondemanjdbcbot"
+      ]
+    },
+    "process_context": "Establish a connection to H2DB and get the table data"
+  },
+  "tasks": [
+    {
+      "name": "getDataFromDB",
+      "processor": {
+        "classname": "com.modak.botworks.bots.processor.NullProcessor",
+        "props": {}
+      },
+      "app_template": {
+        "app_template_group": "/home/test_opensource/resources/templates/jdbc_bot.stg",
+        "app_template_name": "getTableData"
+      },
+      "data": {
+        "ondemand_config": {
+          "name": "h2_all",
+          "type": "h2",
+          "description": "This is H2 Connection profile",
+          "jdbc_driver": "org.h2.Driver",
+          "jdbc_url": "jdbc:h2:tcp://192.168.1.50:5555/~/h2db/bw_tutorial",
+          "username": "admin",
+          "password": "admin",
+          "encrypted_password": "N",
+          "minConnectionsPerPartition": "1",
+          "maxConnectionsPerPartition": "1"
+        },
+        "table_info": {
+          "schema_name": "PUBLIC",
+          "table_name": "PERSON"
+        }
+      },
+      "output_templates": [
+        {
+          "output_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+          "output_template_name": "csvwriter_input_message"
+        }
+      ],
+      "error_templates": []
+    },
+    {
+      "name": "getDataFromDB",
+      "processor": {
+        "classname": "com.modak.botworks.bots.processor.NullProcessor",
+        "props": {}
+      },
+      "app_template": {
+        "app_template_group": "/home/test_opensource/resources/templates/jdbc_bot.stg",
+        "app_template_name": "getTableData"
+      },
+      "data": {
+        "ondemand_config": {
+          "name": "h2_all",
+          "type": "h2",
+          "description": "This is H2 Connection profile",
+          "jdbc_driver": "org.h2.Driver",
+          "jdbc_url": "jdbc:h2:tcp://192.168.1.50:5555/~/h2db/bw_tutorial",
+          "username": "admin",
+          "password": "admin",
+          "encrypted_password": "N",
+          "minConnectionsPerPartition": "1",
+          "maxConnectionsPerPartition": "1"
+        },
+        "table_info": {
+          "schema_name": "PUBLIC",
+          "table_name": "CAR"
+        }
+      },
+      "output_templates": [
+        {
+          "output_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+          "output_template_name": "csvwriter_input_message"
+        }
+      ],
+      "error_templates": []
+    },
+    {
+      "name": "getDataFromDB",
+      "processor": {
+        "classname": "com.modak.botworks.bots.processor.NullProcessor",
+        "props": {}
+      },
+      "app_template": {
+        "app_template_group": "/home/test_opensource/resources/templates/jdbc_bot.stg",
+        "app_template_name": "getTableData"
+      },
+      "data": {
+        "ondemand_config": {
+          "name": "h2_all",
+          "type": "h2",
+          "description": "This is H2 Connection profile",
+          "jdbc_driver": "org.h2.Driver",
+          "jdbc_url": "jdbc:h2:tcp://192.168.1.50:5555/~/h2db/bw_tutorial",
+          "username": "admin",
+          "password": "admin",
+          "encrypted_password": "N",
+          "minConnectionsPerPartition": "1",
+          "maxConnectionsPerPartition": "1"
+        },
+        "table_info": {
+          "schema_name": "PUBLIC",
+          "table_name": "COMPANY"
+        }
+      },
+      "output_templates": [
+        {
+          "output_template_group": "/home/test_opensource/resources/templates/bot_flow.stg",
+          "output_template_name": "csvwriter_input_message"
+        }
+      ],
+      "error_templates": []
+    }
+  ]
+} 
